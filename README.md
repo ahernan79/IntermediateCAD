@@ -1,2 +1,2 @@
 # IntermediateCAD
-My intermediate CAD assignments
+My intermediate CAD assignments:advanced mechanical mates, design tables,
