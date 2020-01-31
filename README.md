@@ -1,5 +1,5 @@
 # IntermediateCAD
-My intermediate CAD assignments: advanced mechanical mates and design tables
+My intermediate CAD assignments: advanced mechanical mates and design tables.
 
 ## Design Tables
 Assignment: Create a spool with a design table that has 7 size configurations with the hole in the middle suppressed in the two smallest configurations.
