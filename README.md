@@ -10,6 +10,8 @@ Challenges: I struggled getting the spreadsheet to work because of some licensin
 
 Final product:
 
+![Design Tables Assignment](https://github.com/ahernan79/IntermediateCAD/blob/master/Designtables1.PNG?raw=true)
+
 ## Advanced Mechanical Mates
 Assignment: Use new mate types to create this telescoping assembly with three size configurations of one part and a pin to hold them together.
 
