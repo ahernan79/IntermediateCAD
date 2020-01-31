@@ -11,7 +11,7 @@ Challenges: I struggled getting the spreadsheet to work because of some licensin
 Final product:
 
 ## Advanced Mechanical Mates
-Assignment: Use new mates to create this telescoping assembly with three size configurations of one part and a pin to hold them together.
+Assignment: Use new mate types to create this telescoping assembly with three size configurations of one part and a pin to hold them together.
 
 What I learned: How to use new mates like the slot mate.
 
