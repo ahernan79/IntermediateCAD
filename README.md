@@ -17,6 +17,7 @@ What I learned: How to use new mates like the slot mate.
 
 Challenges: Since I did some of it before my ultrasonic robot and some after it took me a day or two to redo the mates I'd made wrong.
 
-Final product: ![Advanced Mechanical Mates Assignment](https://github.com/ahernan79/IntermediateCAD/blob/master/Advancedandmechanicalmates1cropped.png?raw=true)
+Final product:
+![Advanced Mechanical Mates Assignment](https://github.com/ahernan79/IntermediateCAD/blob/master/Advancedandmechanicalmates1cropped.png?raw=true)
 
 
