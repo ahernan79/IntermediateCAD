@@ -17,6 +17,6 @@ What I learned: How to use new mates like the slot mate.
 
 Challenges: Since I did some of it before my ultrasonic robot and some after it took me a day or two to redo the mates I'd made wrong.
 
-Final product:
+Final product: 
 
 
